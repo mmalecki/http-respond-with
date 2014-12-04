@@ -1,0 +1,6 @@
+{
+  "name": "http-respond-with",
+  "version": "0.0.0",
+  "description": "Create a HTTP request handler that responds with given status code, headers and body",
+  "license": "MIT"
+}
